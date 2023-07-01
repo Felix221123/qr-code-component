@@ -97,9 +97,9 @@ body{
     margin: 0.1em;
 }
 
-@media only screen and (max-width:376px){
+@media only screen and (max-width:380px){
     .main-card{
-        width: 75vw;
+        width: 80vw;
         height:auto;
     }
     .attribution{
@@ -108,22 +108,22 @@ body{
     }
     .text-improve{
         font-size: 1.3em;
-        padding-right: 1em;
-        padding-left: 1em;
+        padding-right: 1.5em;
+        padding-left: 1.5em;
     }
     .text-next-line{
         text-align: center;
-        padding-right: 1em;
-        padding-left: 1em;
+        padding-right: 2.5em;
+        padding-left: 2.5em;
     }
     
     
     
 }
 
-@media (min-width:376px) and (max-width:500px){
+@media (min-width:380px) and (max-width:500px){
     .main-card{
-        width:70vw;
+        width:85vw;
         height:auto;
     }
     .attribution{
@@ -254,15 +254,20 @@ body{
 }
 
 
-@media (min-width:1440px) and (max-width:1500){
+@media (min-width:1440px) and (max-width:1900){
     .main-card{
         width: 19.5vw;
         height:auto;
     }
+    .text-improve{
+        font-size: 1.3em;
+        padding-right: 1.5em;
+        padding-left: 1.5em;
+    }
     
     .text-next-line{
-        padding-right: 1em;
-        padding-left: 1em;
+        padding-right: 2em;
+        padding-left: 2em;
         font-size: 0.85em;
         
     }

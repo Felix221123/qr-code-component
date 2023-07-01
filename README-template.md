@@ -33,7 +33,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Live Site URL: [https://qr-code-component-card-token.netlify.app/] This solution url is for desktop view
+- Live Site URL: [https://qr-code-component-card-token.netlify.app/]
 - Solution URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
