@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./qr-code-screenshot.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -33,7 +33,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Live Site URL: [https://fels-dev-frontend-io-qr-code.netlify.app/] This solution url is for desktop view
+- Live Site URL: [https://qr-code-component-card-token.netlify.app/] This solution url is for desktop view
 - Solution URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
