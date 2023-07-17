@@ -34,7 +34,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Live Site URL: [https://qr-code-component-card-token.netlify.app/]
-- Solution URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qrcodecomponent-CKjMj0k7PS]
 
 ## My process
 
